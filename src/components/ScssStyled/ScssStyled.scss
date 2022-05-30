@@ -1,0 +1,11 @@
+.component-container{
+    @apply mx-auto bg-purple-300 rounded-xl shadow border p-8 m-10;
+
+    .p1{
+        @apply text-3xl text-gray-700 font-bold mb-10
+    }
+
+    .p2{
+        @apply  text-gray-500 text-lg;
+    }
+}
